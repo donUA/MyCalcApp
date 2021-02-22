@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCalcApp</string>
+    <string name="enter_first_number">Enter value 1</string>
+    <string name="enter_second_number">Enter value 2</string>
+    <string name="results">Result will display here</string>
+    <string name="Add">ADD</string>
+    <string name="minus">MINUS</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="divide">DIVIDE</string>
+    <string name="value_2">Value 2</string>
+    <string name="result">Result</string>
+    <string name="value_1">Value 1</string>
+</resources>
